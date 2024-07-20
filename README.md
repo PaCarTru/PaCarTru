@@ -1,3 +1,4 @@
+<img src="tecno.jpg">
 - 👋 Hola, mi nombre es Pamela Cardín
 - 👀 Me gusta aprender sobre tecnología, IA, medicina, casos de éxito
 - 🌱 Actualmente estoy estudiante el Doctorado en Tecnología Educativa
